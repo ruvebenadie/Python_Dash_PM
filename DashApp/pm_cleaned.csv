@@ -1,0 +1,146 @@
+city,year,PM2.5 (μg/m3),PM10 (μg/m3)
+Bojanala,2019,0.0,0.0
+Bojanala Platinum,2020,0.0,0.0
+Buffalo City,2019,0.0,11.21
+Buffalo City,2020,0.0,0.0
+Buffalo City,2021,12.63,29.04
+Capricorn Dm,2021,18.91,37.4
+City Of Cape Town,2010,0.0,31.52
+City Of Cape Town,2018,0.0,32.16
+City Of Cape Town,2019,8.07,9.91
+City Of Cape Town,2020,8.92,25.25
+City Of Cape Town,2021,14.86,36.34
+City Of Johannesburg,2012,26.96,57.95
+City Of Johannesburg,2013,23.07,41.04
+City Of Johannesburg,2014,22.86,40.24
+City Of Johannesburg,2015,23.37,42.04
+City Of Johannesburg,2016,24.64,31.99
+City Of Johannesburg,2017,19.6,0.0
+City Of Johannesburg,2018,22.68,41.74
+City Of Johannesburg,2019,37.29,57.22
+City Of Johannesburg,2020,41.06,50.44
+City Of Johannesburg,2021,35.47,54.22
+City Of Tshwane,2012,0.0,77.62
+City Of Tshwane,2013,0.0,43.1
+City Of Tshwane,2014,0.0,48.22
+City Of Tshwane,2018,31.33,55.88
+City Of Tshwane,2019,0.0,0.0
+City Of Tshwane,2020,54.57,32.64
+City Of Tshwane,2021,23.39,130.19
+Dr Kenneth Kaunda,2016,18.69,65.83
+Dr Kenneth Kaunda,2018,0.0,44.61
+Dr Kenneth Kaunda,2019,43.41,48.82
+Dr Kenneth Kaunda,2020,11.46,19.66
+Dr Kenneth Kaunda,2021,11.73,23.9
+Ethekwini,2010,0.0,27.71
+Ethekwini,2010,0.0,27.71
+Ethekwini,2011,0.0,39.94
+Ethekwini,2012,0.0,21.15
+Ethekwini,2013,0.0,32.72
+Ethekwini,2013,0.0,32.72
+Ethekwini,2014,0.0,50.22
+Ethekwini,2015,15.61,23.74
+Ethekwini,2016,16.95,44.31
+Ethekwini,2017,15.07,0.0
+Ethekwini,2019,31.92,45.35
+Ethekwini,2020,16.83,39.12
+Ethekwini,2021,16.67,39.13
+Fezile Dabi,2010,36.49,0.0
+Fezile Dabi,2012,29.13,80.12
+Fezile Dabi,2013,29.62,0.0
+Fezile Dabi,2014,29.97,57.87
+Fezile Dabi,2015,30.72,0.0
+Fezile Dabi,2016,0.0,65.72
+Fezile Dabi,2018,32.1,0.0
+Fezile Dabi,2019,26.15,54.85
+Fezile Dabi,2020,28.24,53.88
+Fezile Dabi,2021,29.12,61.4
+Gert Sibande,2010,34.49,55.52
+Gert Sibande,2011,25.23,47.91
+Gert Sibande,2012,20.88,52.78
+Gert Sibande,2013,22.96,54.04
+Gert Sibande,2014,17.69,40.2
+Gert Sibande,2015,15.16,46.6
+Gert Sibande,2016,26.08,39.74
+Gert Sibande,2017,22.45,45.94
+Gert Sibande,2018,17.1,41.9
+Gert Sibande,2019,15.42,38.86
+Gert Sibande,2020,19.59,31.91
+Gert Sibande,2021,22.74,48.1
+Greater Sekhukhune,2019,5.3,7.7
+Greater Sekhukhune,2020,7.57,6.05
+Greater Sekhukhune,2021,8.75,0.0
+Mangaung Metropolitan,2019,42.36,107.41
+Mangaung Metropolitan,2020,50.63,110.86
+Mangaung Metropolitan,2021,57.34,120.13
+Mopani,2019,14.68,32.47
+Mopani,2020,10.84,25.33
+Mopani,2021,11.27,24.76
+Namakwa,2019,4.05,6.96
+Nelson Mandela Bay,2015,0.0,24.57
+Nelson Mandela Bay,2016,0.0,17.17
+Nelson Mandela Bay,2017,0.0,19.85
+Nelson Mandela Bay,2018,0.0,21.84
+Nelson Mandela Bay,2019,10.71,29.28
+Nelson Mandela Bay,2020,9.99,26.51
+Nelson Mandela Bay,2021,14.4,25.99
+Ngaka Modiri Molema,2018,0.0,0.0
+Ngaka Modiri Molema,2019,26.53,67.64
+Ngaka Modiri Molema,2020,13.18,29.41
+Nkangala,2010,25.25,45.71
+Nkangala,2011,0.0,0.0
+Nkangala,2012,20.75,49.94
+Nkangala,2013,22.14,57.14
+Nkangala,2014,14.8,45.2
+Nkangala,2015,21.34,47.38
+Nkangala,2016,15.58,43.06
+Nkangala,2017,0.0,0.0
+Nkangala,2018,21.07,56.67
+Nkangala,2019,27.11,89.75
+Nkangala,2020,0.0,0.0
+Nkangala,2021,0.0,76.85
+Richards Bay,2012,13.0,0.0
+Richards Bay,2017,0.0,28.41
+Richards Bay,2018,0.0,28.37
+Richards Bay,2019,0.0,23.61
+Sedibeng,2010,42.56,67.06
+Sedibeng,2011,0.0,0.0
+Sedibeng,2012,36.99,59.87
+Sedibeng,2013,29.74,55.96
+Sedibeng,2014,32.63,51.37
+Sedibeng,2015,30.64,49.87
+Sedibeng,2016,59.65,90.25
+Sedibeng,2018,32.97,62.95
+Sedibeng,2019,0.0,74.49
+Sedibeng,2020,28.41,53.71
+Sedibeng,2021,38.87,67.67
+Umkhanyakude,2012,0.0,22.6
+Umkhanyakude,2013,0.0,21.37
+Umkhanyakude,2020,0.0,24.92
+Uthungulu,2011,0.0,23.35
+Uthungulu,2012,0.0,26.65
+Uthungulu,2013,0.0,26.9
+Uthungulu,2014,0.0,28.03
+Uthungulu,2015,0.0,30.5
+Uthungulu,2016,0.0,24.63
+Uthungulu,2019,6.91,19.89
+Uthungulu,2020,0.0,20.07
+Uthungulu,2021,0.0,17.58
+Waterberg,2011,70.42,64.54
+Waterberg,2012,43.31,85.22
+Waterberg,2013,17.82,47.49
+Waterberg,2014,12.87,29.58
+Waterberg,2015,10.59,28.64
+Waterberg,2016,12.82,30.56
+Waterberg,2017,15.48,41.72
+Waterberg,2018,16.62,43.91
+Waterberg,2019,16.33,48.62
+Waterberg,2020,15.57,41.06
+Waterberg,2021,18.86,44.71
+West Coast,2011,0.0,22.22
+West Coast,2014,0.0,23.98
+West Coast,2015,7.47,24.64
+West Coast,2016,8.42,33.28
+West Coast,2017,6.83,20.49
+West Coast,2018,6.1,17.99
+West Rand,2016,0.0,0.0
